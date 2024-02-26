@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>HUMN100</title>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc sameAs="http://www.cwrc.ca">
+				<p>Created from original research by members of CWRC/CSÉC unless
+					otherwise noted.</p>
+			</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text>
+		<body>
+			<div>
+				<head>Junbo Feng</head>
+				
+				<listPerson/>
+					<person>
+						<persName>Junbo, Feng</persName>
+						<birth>
+							<placeName>Guangdong, China</placeName>
+							<date>07/12/2005</date>
+						</birth>
+					</person>
+				<p>Fun fact: I am a music producer.</p>
+			</div>
+		</body>
+	</text>
+</TEI>
