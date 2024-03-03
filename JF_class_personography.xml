@@ -17,51 +17,51 @@
          <div>
             <listPerson>
                <person>
-                  <persName>NAME1</persName><birth><date>DATE</date>
-                     <placeName>PLACE</placeName>
+                  <persName>Bityutskiy, Nikita</persName><birth><date>10/09/2003</date>
+                     <placeName>Tashkent, Uzbekistan</placeName>
                   </birth>
-                  <occupation>WHAT DO I DO/WHAT IS MY MAJOR/WHAT OCCUPIES MY TIME</occupation>
-                  <affiliation>GROUP I'M A PART OF</affiliation>
+                  <occupation>Computer Science Engineering</occupation>
+                  <affiliation>none</affiliation>
                </person>
             </listPerson>
-            <p>FUN FACT</p>
+            <p>I wanted to play baseball but screwed up my shoulder</p>
          </div>
          <div>
             <listPerson>
                <person>
-                  <persName>NAME2</persName><birth><date>DATE</date>
-                     <placeName>PLACE</placeName>
+                  <persName>Blumenfeld, Zach</persName><birth><date>02/02/2005</date>
+                     <placeName>Doylestown, PA</placeName>
                   </birth>
-                  <occupation>WHAT DO I DO/WHAT IS MY MAJOR/WHAT OCCUPIES MY TIME</occupation>
-                  <affiliation>GROUP I'M A PART OF</affiliation>
+                  <occupation>Computer Science Engineering</occupation>
+                  <affiliation>none</affiliation>
                </person>
             </listPerson>
-            <p>FUN FACT</p>
+            <p>I'm also left handed</p>
          </div>
          <div>
             <listPerson>
                <person>
-                  <persName>NAME3</persName>
+                  <persName>Camacho, Miguel</persName>
                   <birth>
-                     <date>DATE</date>
-                     <placeName>PLACE</placeName>
+                     <date>12/13/2002</date>
+                     <placeName>Bogota, Colombia</placeName>
                   </birth>
-                  <occupation>WHAT DO I DO/WHAT IS MY MAJOR/WHAT OCCUPIES MY TIME</occupation>
-                  <affiliation>GROUP I'M A PART OF</affiliation>
+                  <occupation>Creative Writing, Comparative and Digital Humanities</occupation>
+                  <affiliation>Arts Merit Scholar</affiliation>
                </person>
             </listPerson>
-            <p>FUN FACT</p>
+            <p>I was a competitive fencer</p>
          </div>
          <div>
             <listPerson>
                <person>
-                  <persName>NAME4</persName>
+                  <persName>Feng, Junbo</persName>
                   <birth>
-                     <date>DATE</date>
-                     <placeName>PLACE</placeName>
+                     <date>07/12/2005</date>
+                     <placeName>Guangdong, China</placeName>
                   </birth>
-                  <occupation>WHAT DO I DO/WHAT IS MY MAJOR/WHAT OCCUPIES MY TIME</occupation>
-                  <affiliation>GROUP I'M A PART OF</affiliation>
+                  <occupation>Computer Science Engineering</occupation>
+                  <affiliation>none</affiliation>
                </person>
             </listPerson>
             <listRelation>
@@ -69,162 +69,162 @@
                   <desc/>
                </relation>
             </listRelation>
-            <p>FUN FACT</p>
+            <p>I'm a music producer</p>
          </div>
          <div>
             <listPerson>
                <person>
-                  <persName>NAME4</persName>
+                  <persName>Green, Jackson</persName>
                   <birth>
-                     <date>DATE</date>
-                     <placeName>PLACE</placeName>
+                     <date>03/09/2005</date>
+                     <placeName>Washington DC</placeName>
                   </birth>
-                  <occupation>WHAT DO I DO/WHAT IS MY MAJOR/WHAT OCCUPIES MY TIME</occupation>
-                  <affiliation>GROUP I'M A PART OF</affiliation>
+                  <occupation>Undecided</occupation>
+                  <affiliation>none</affiliation>
                </person>
             </listPerson>
-            <p>FUN FACT</p>
+            <p>I have 2 dogs and a cat</p>
          </div>
          <div>
             <listPerson>
                <person>
-                  <persName>NAME5</persName>
+                  <persName>Casarsa, Nathan</persName>
                   <birth>
-                     <date>DATE</date>
-                     <placeName>PLACE</placeName>
+                     <date>10/31/2003</date>
+                     <placeName>Buffalo, NY</placeName>
                   </birth>
-                  <occupation>WHAT DO I DO/WHAT IS MY MAJOR/WHAT OCCUPIES MY TIME</occupation>
-                  <affiliation>GROUP I'M A PART OF</affiliation>
+                  <occupation>Computer Science Engineering</occupation>
+                  <affiliation>none</affiliation>
                </person>
             </listPerson>
 
-            <p>FUN FACT</p>
+            <p>I have a twin brother</p>
          </div>
          <div>
             <listPerson>
                <person>
-                  <persName>NAME6</persName>
+                  <persName>Hausner, Abby</persName>
                   <birth>
-                     <date>DATE</date>
-                     <placeName>PLACE</placeName>
+                     <date>10/08/2004</date>
+                     <placeName>Ridgewood, NJ</placeName>
                   </birth>
-                  <occupation>WHAT DO I DO/WHAT IS MY MAJOR/WHAT OCCUPIES MY TIME</occupation>
-                  <affiliation>GROUP I'M A PART OF</affiliation>
+                  <occupation>Economics, Political Science</occupation>
+                  <affiliation>none</affiliation>
                </person>
             </listPerson>
-            <p>FUN FACT</p>
+            <p>I'm going to Scotland in May</p>
          </div>
          <div>
             <listPerson>
                <person>
-                  <persName>NAME7</persName>
+                  <persName>Lange, Dylan</persName>
                   <birth>
-                     <date>DATE</date>
-                     <placeName>PLACE</placeName>
+                     <date>06/01/2004</date>
+                     <placeName>Indio, California</placeName>
                   </birth>
-                  <occupation>WHAT DO I DO/WHAT IS MY MAJOR/WHAT OCCUPIES MY TIME</occupation>
-                  <affiliation>GROUP I'M A PART OF</affiliation>
+                  <occupation>Computer Science</occupation>
+                  <affiliation> Sigma Alpha Epsilon</affiliation>
                </person>
             </listPerson>
-            <p>FUN FACT</p>
+            <p>I have 15 cats</p>
          </div>
          <div>
             <listPerson>
                <person>
-                  <persName>NAME8</persName>
+                  <persName>Lee, Joshua</persName>
                   <birth>
-                     <date>DATE</date>
-                     <placeName>PLACE</placeName>
+                     <date>02/20/2004</date>
+                     <placeName>Englewood, NJ</placeName>
                   </birth>
-                  <occupation>WHAT DO I DO/WHAT IS MY MAJOR/WHAT OCCUPIES MY TIME</occupation>
-                  <affiliation>GROUP I'M A PART OF</affiliation>
+                  <occupation>Computer Science</occupation>
+                  <affiliation>none</affiliation>
                </person>
             </listPerson>
-            <p>FUN FACT</p>
+            <p>none</p>
          </div>
          <div>
             <listPerson>
                <person>
-                  <persName>NAME9</persName>
+                  <persName>McMenimen, Leo</persName>
                   <birth>
-                     <date>DATE</date>
-                     <placeName>PLACE</placeName>
+                     <date>11/25/2003</date>
+                     <placeName>Sayerville, New Jersey</placeName>
                   </birth>
-                  <occupation>WHAT DO I DO/WHAT IS MY MAJOR/WHAT OCCUPIES MY TIME</occupation>
-                  <affiliation>GROUP I'M A PART OF</affiliation>
+                  <occupation>Computer Science</occupation>
+                  <affiliation>none</affiliation>
                </person>
             </listPerson>
-            <p>FUN FACT</p>
+            <p>I have a metal rod screwed into my right arm</p>
          </div>
          <div>
             <listPerson>
                <person>
-                  <persName>NAME10</persName>
+                  <persName>Peters, Alexander</persName>
                   <birth>
-                     <date>DATE</date>
-                     <placeName>PLACE</placeName>
+                     <date>none</date>
+                     <placeName>none</placeName>
                   </birth>
-                  <occupation>WHAT DO I DO/WHAT IS MY MAJOR/WHAT OCCUPIES MY TIME</occupation>
-                  <affiliation>GROUP I'M A PART OF</affiliation>
+                  <occupation>none</occupation>
+                  <affiliation>none</affiliation>
                </person>
             </listPerson>
-            <p>FUN FACT</p>
+            <p>none</p>
          </div>
          <div>
             <listPerson>
                <person>
-                  <persName>NAME11</persName>
+                  <persName>Shahid, Farhaj</persName>
                   <birth>
-                     <date>DATE</date>
-                     <placeName>PLACE</placeName>
+                     <date>none</date>
+                     <placeName>none</placeName>
                   </birth>
-                  <occupation>WHAT DO I DO/WHAT IS MY MAJOR/WHAT OCCUPIES MY TIME</occupation>
-                  <affiliation>GROUP I'M A PART OF</affiliation>
+                  <occupation>none</occupation>
+                  <affiliation>none</affiliation>
                </person>
             </listPerson>
-            <p>FUN FACT</p>
+            <p>none</p>
          </div>
          <div>
             <listPerson>
                <person>
-                  <persName>NAME12</persName>
+                  <persName>Wiehn, Erin</persName>
                   <birth>
-                     <date>DATE</date>
-                     <placeName>PLACE</placeName>
+                     <date>2/26/2005</date>
+                     <placeName>Newton, MA</placeName>
                   </birth>
-                  <occupation>WHAT DO I DO/WHAT IS MY MAJOR/WHAT OCCUPIES MY TIME</occupation>
-                  <affiliation>GROUP I'M A PART OF</affiliation>
+                  <occupation>Economics, Minor in marketing</occupation>
+                  <affiliation>none</affiliation>
                </person>
             </listPerson>
-            <p>FUN FACT</p>
+            <p>I'm left handed</p>
          </div>
          <div>
             <listPerson>
                <person>
-                  <persName>NAME13</persName>
+                  <persName>Wynkoop, Peyton</persName>
                   <birth>
-                     <date>DATE</date>
-                     <placeName>PLACE</placeName>
+                     <date>08/21/2005</date>
+                     <placeName>Abu Dhabi, UAE</placeName>
                   </birth>
-                  <occupation>WHAT DO I DO/WHAT IS MY MAJOR/WHAT OCCUPIES MY TIME</occupation>
-                  <affiliation>GROUP I'M A PART OF</affiliation>
+                  <occupation>Undecided</occupation>
+                  <affiliation>DSAC</affiliation>
                </person>
             </listPerson>
-            <p>FUN FACT</p>
+            <p>none</p>
          </div>
          <div>
             <listPerson>
                <person>
-                  <persName>NAME14</persName>
+                  <persName>Cahoon, Claire</persName>
                   <birth>
-                     <date>DATE</date>
-                     <placeName>PLACE</placeName>
+                     <date>03/16</date>
+                     <placeName>Charlottesville, VA</placeName>
                   </birth>
-                  <occupation>WHAT DO I DO/WHAT IS MY MAJOR/WHAT OCCUPIES MY TIME</occupation>
-                  <affiliation>GROUP I'M A PART OF</affiliation>
+                  <occupation>English, Minor in Computer Science</occupation>
+                  <affiliation>none</affiliation>
                </person>
             </listPerson>
-            <p>FUN FACT</p>
+            <p>I have color synesthesia and a rambunctious cat</p>
          </div>
       </body>
    </text>
