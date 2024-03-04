@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="null"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Village Schoolteacher</title>
+            <author>Liu Cixin</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData></teiHeader>
+  <text>
+      <body>
+         <head>The Village Schoolteacher</head>
+            <byline>By Liu Cixin</byline>
+            <p>Translated by Christopher Elford and Jiang Chenxin
+            He realized that the final class would have to be moved forward.
+            The pain in his side surged up again, nearly knocking him unconscious. He didn’t have the
+            strength to get out of bed, and could only move with great difficulty to the bedside window. The
+            moonlight shone on the paper window a brilliant silver, making the small portal look like a door
+            leading to another world, a world where everything was silvery, like a bonsai terrarium made of
+            silver coins and snow that wasn’t cold. Quivering slightly, he raised his head to look through a
+            hole in the window paper and all at once the mirage vanished. He saw in the distance the
+            village where he’d spent his entire life.</p>
+            <p>Spread out under the moonlight, the silent village looked as though it had been
+            abandoned a century before. The houses, with the characteristic flat-topped roofs found on the
+            Loess Plateau, were of a shape no different from the loess mounds that surrounded them. In the
+            moonlight they were of the same tinge, as though the village had merged with the hillside. Only
+            the old pagoda tree, standing out in front, could be seen clearly. The crows’ nests in its withered
+            branches stood out a blacker black, like large ink drops on the deep silver tableau. The village
+            did have its moments of beauty and warmth. At harvest time, the young men and women who
+            had gone off to work in the city would return, and the village would fill with the sounds of their
+            joyous laughter; every rooftop was stacked high with golden corn and children could be seen
+            rolling about in the freshly cut hay on the threshing ground. Or there was the New Year when the
+            gas lamps over the threshing ground burned bright and there would be several days of wild
+            festivities, the rowing of the ‘land boat’, and the dancing of the ‘lion dance’. Of these lions not
+            much remained save some clicking wooden skulls with the paint worn off, and a few bed-sheets,
+            since the village could not afford to replace the coverings with proper lion skins ... yet everyone
+            had great fun. But after the 15th, the young people would all have returned to their jobs and the
+            village had nothing to enliven it. Only at dusk, when the smoke rose from the chimneys in thin
+            wisps, would one or two old men appear on the outskirts of the village, their faces, wrinkled like
+            mountain hickory nuts, raised and peering eagerly at the road that led out of the mountains, till
+            the last rays of the sun hanging from the branches of the pagoda tree faded away. By nightfall the
+            lights in the village had long been put out. Electricity was expensive. It was now up to 1.8 yuan
+            per kilowatt hour.</p>
+            <p>The faint sound of a dog barking drifted through the village, as though it was talking in its sleep.
+            He looked around at the yellow earth in the moonlight and felt suddenly that it resembled the
+            unbroken surface of a lake. If only it really was water. The drought was in its fifth straight year.
+            The villagers had to carry water to irrigate the land to have any harvest at all. He thought of the
+            fields as he looked off into the distance at the tiny mountain plots. In the moonlight they looked
+            like footprints left by some prehistoric giant passing over the mountains. On these rocky slopes,
+            covered with brambles and artemisia, there was only space for small plots here and there. Farm
+            machinery was out of the question; even a draft animal could barely turn a full circle on the            
+            fields, so the fields had to be tilled by hand. Last year a farm machinery company came around
+            selling a mini- push-tractor that would function even on these palm-sized plots of land. A good
+            enough machine, the villagers said, but you must be joking: did the salesmen know how little
+            these tiny fields produced? Even tilling them as carefully as if one were embroidering flowers,
+            you’d be lucky to harvest enough to feed yourself year round; in a time of drought you might not
+            even recover the price of the seeds you planted. With fields like these, who could afford a three
+            or four thousand yuan push-tractor, plus the two-yuan-a-litre diesel fuel you’d need to run it?
+            How could these outsiders understand just how hard life was in the mountains?</p>
+            <p>Several shadows passed by the windows. They squatted together at the edge of a field not too far
+            off, for who knew what reason. He knew that they were his students. He could sense their
+            presence when they were near him even without using his eyes. He had developed these intuitive
+            skills over the course of his life, and they only sharpened in its final moments.</p>
+            <p>He could even identify which of the children it was under the moonlight. He was sure that Liu
+            Baozhu and Guo Cuihua were among them. They were locals and so were not meant to board at
+            the school, but he had taken them in anyway. Ten years ago Liu Baozhu’s father had purchased a
+            wife from Sichuan. The woman gave birth to Baozhu and by the time the child was five,</p>
+            <p>Baozhu’s father slackened his watch on the woman. The result was that she escaped and ran
+            away back to Sichuan, taking all the money in the house with her. After this, Baozhu’s father
+            wasn’t himself anymore. He started gambling, and just like any old bachelor in the village, he
+            reduced his household to but four walls and a bed. And then he started drinking. Every night he
+            would hit the sweet potato wine hard, drinking himself into oblivion. He took his anger out on
+            the kid, slapping him around once a day, violently beating him up every three. Just last month in
+            the dead of night, he took a fire poker and beat Baozhu within an inch of his life. Guo Cuihua
+            was even worse off. Her mother was respectably married—a rare occurrence in these parts—and
+            her husband was very proud of the fact. But as all things good are short lived, as soon as the
+            wedding festivities were over, she was discovered to be insane. That no one noticed before the
+            wedding must have been due to the fact that she’d been drugged. Besides, what sane women
+            would come to a place so poor that a bird wouldn’t bother to shit on it? But despite all this
+            Cuihua was born, and with some difficulty, grew up just the same. Her mother’s illness grew
+            worse, acting up more frequently. She hacked at people with a kitchen knife in broad daylight
+            and tried to burn her house down in the middle of the night. More often she would just laugh
+            darkly to herself. Her laughter made people’s hair stand on end.</p>
+            <p>The rest of the children were from other villages, even those who lived near were separated from
+            their homes by ten kilometres of mountain road. They had no choice but to live at the school.
+            They would have to spend the entire term at this makeshift village school. In addition to their
+            bedding they also brought with them a sack of rice or flour, which the children cooked together
+            on the school’s large cooking stove. When winter came, a dozen of them would gather around
+            the stove to watch the food pop and sizzle. The straw burning inside the stove cast an orange
+            glow onto their faces ... this was one of his most cherished memories. He would be sure to take
+            the image into the next world with him.</p>
+            <p>Outside of the window several tiny red sparks appeared among the children, standing out a
+            brilliant red against the silver-grey night. They were burning incense. Then they lit spirit-money,            
+            the flames casting the children’s forms in bright orange against the silver-grey winter night. It
+            made him think back to the stove fire, which brought to mind yet another scene. When the power
+            went off in the schoolhouse (either because the wiring was bad, or, more often than not, because
+            the school hadn’t been able to pay the electricity bill) and their lessons ran late, he would hold a
+            candle to the blackboard. ‘Can you see?’ he would ask. ‘Not really!’ the kids would respond.
+            With so little light it most certainly wasn’t easy to see clearly, but they had missed so many
+            lessons that he had no choice but to hold classes at night. He would light another candle, holding
+            it together with the first in his hand. ‘Still can’t see!’ they would chorus. And so he would add
+            another candle. They still couldn’t see clearly but this time the children wouldn’t bother to shout
+            out. They knew he would not light another candle—it would cost too much. He could see their
+            faces drifting in and out of the circle of candlelight. They looked like little bugs struggling with
+            all their might to throw off the darkness surrounding them.</p>
+            <p>Children and firelight, children and firelight. Always children and firelight, always children and
+            firelight at night. It was what this world had burned into his mind, this image, and yet he never
+            understood exactly what it meant.</p>
+            <p>He knew they were burning the incense and spirit-money for him. They had done it many times
+            before, but this time he didn’t have the strength to go out and reprimand them for being
+            superstitious. He had spent his entire life lighting the fires of science and civilization in their
+            hearts but he knew that in a remote mountain village shrouded in ignorance, the fires he lit were
+            small in comparison to the fires of superstition, like the candle he held against the blackboard in
+            a freezing cold classroom deep in the mountains on a dark winter’s night. Six months earlier
+            some villagers had taken the rafters from the already run-down school dormitory. They said they
+            needed them to fix the old temple. When he asked how the dormers would get on without a roof
+            over their heads they said the kids could sleep in the classroom. When he reminded them that the
+            classroom let in drafts on all sides and asked what the children would do in the winter, they said,
+            ‘Well, they’re all children from other villages anyway.’ He went after them with a bamboo
+            shoulder-pole and ended up with two broken ribs in the resulting fight. A couple of decent people
+            took him thirty kilometres to the township hospital.</p>
+            <p>During his check-up they discovered by chance that he had cancer of the oesophagus. There was
+            nothing strange about this, as the area was a high-risk zone for oesophageal cancer. The doctor
+            congratulated him on his happy turn of fortune. The cancer was still in its early stages and hadn’t
+            yet begun to spread; a simple operation would take care of it. Oesophageal cancer has a high
+            post- operative recovery rate. He was lucky.</p>
+            <p>He had come all the way to the city and was in the cancer ward when he asked the doctor how
+            much the operation would cost. The doctor replied that given his situation he would be qualified
+            to move to the poverty-relief ward and other costs could also be reduced, making the final sum
+            not large, probably around 20,000 yuan. Seeing as he had come from a remote mountain area, the
+            doctor explained in great detail the procedure for staying in the hospital. He listened quietly and
+            then asked abruptly, ‘If we don’t operate, about how long do I have?’ The doctor stared at him
+            blankly for a moment before saying, ‘About half a year.’ The doctor then looked confused as he
+            let out a sigh of relief, as if he had been greatly reassured.</p>            
+            <p>At least he would be able to send off this year’s graduating class.</p>
+            <p>He really couldn’t afford the 20,000 yuan. The salaries of locally-sponsored teachers were low,
+            but since he had worked for many years and had only himself to worry about, it would be
+            reasonable to suppose that he would have some savings. But he had spent all that money on his
+            students, and could not remember how many times he had helped to pay tuition and other fees.
+            Most recently it had been for Baozhu and Cuihua. Many times he had noticed that the food
+            cooking in the pots lacked oil so he had used his own money to buy meat and lard for them ...
+            Now he had only about one-tenth of what it would take to pay for the operation.</p>
+            <p>Following one of the wide city avenues, he walked in the direction of the train station. It was
+            dark and the neon lights were already casting their enchanting glow across the cityscape, a
+            gorgeous radiance that baffled him; when night fell, the tall buildings turned into giant multi-
+            coloured lanterns. The music that drifted through the night air was frenzied and mellow by turns.
+            In a world that he had never been a part of, he thought back on his relatively short life. He was
+            calm; each person had his own life to live. Returning to his primary school in the mountains
+            twenty years ago after graduating from middle school had sealed his fate. Besides, he owed the
+            greater part of his life to another village schoolteacher. The school he was now in charge of was
+            the one he’d spent his childhood attending. His mother and father had died early and so the crude
+            school was his only home. His teacher had taken him in and treated him like a son.</p>
+            <p>Even though they were poor, his childhood had not been without love. One winter, when school
+            let out for the holiday, his teacher brought him to his own home. His teacher’s house was far
+            away and they had to travel down long mountain roads packed with snow. By the time they
+            caught sight of the dim lights burning in his teacher’s village it was already midnight. It was then
+            that they saw behind them four small green shimmering discs of light. Wolves’ eyes. At the time
+            there were still many wolves in the mountains and one could see piles of wolf droppings near the
+            schoolhouse. He’d been naughty once, igniting and tossing the whitish grey lumps into the
+            classroom, filling it with heavy smoke. The children had bolted out of the classroom choking and
+            his teacher had been very angry. Now the wolves behind them were slowly drawing close. His
+            teacher broke off a thick tree branch and waved it in their path to block their approach, shouting
+            for him to run into the village. He was out of his mind with fear, and could only run, could only
+            think about the possibility of the wolves bypassing his teacher to get at him, could only think
+            there might be other wolves. He ran, breathless, into the village, and returned with several men
+            carrying guns to help his teacher. They discovered him lying in a frozen pool of blood, with half
+            a leg missing and one entire arm ripped off. It was on the road to the hospital that his teacher
+            breathed his last. He had caught a glimpse of his teacher’s eyes in the torchlight and the deep bite
+            on the side of his cheek where a large chunk of flesh had been torn off. Although his teacher
+            could no longer speak, he had used his eyes to communicate a most urgent and sincere concern.
+            He understood this. He would never forget it.</p>
+            <p>After graduating from middle school, he had given up his chance to get a good job in the
+            township government and returned instead to this destitute mountain village, to the school his
+            teacher had worried so much about. By then the school had already been abandoned for a
+            number of years. </p>          
+            <p>Not long before this the Ministry of Education had announced a new policy directive. They were
+            discontinuing the ‘locally-sponsored teachers’, with those who could pass their examinations to
+            become ‘state-certified teachers’. When he received his teaching certificate, showing that he was
+            now a nationally certified primary school teacher, he was happy, but merely happy, not elated as
+            his colleagues had been. He didn’t care about the difference between locally-sponsored and state-
+            certified. All he cared about were the children who passed through his classroom: that they might
+            graduate and go out into the world. Whether they stayed in or left the mountains didn’t matter;
+            their lives would always be a little different from the lives of those who had never attended a day
+            of school.</p>
+            <p>This desolate mountainous region was one of the poorest in the entire country. But being poor
+            wasn’t the worst of it. The worst was how numb to their condition people had become. He
+            remembered many years ago, when it came time to fix household farm quotas, the village began
+            dividing up the fields and then went on to divide up other things. As for the village’s only tractor,
+            nobody could decide how to divide the cost of fuel or arrange a time schedule for its use. Finally
+            they settled on the only solution everyone could live with and divided up the tractor itself.
+            Literally divided it up: you’ll take the wheels, they’ll take the axle.</p>
+      </body>
+  </text>
+</TEI>
