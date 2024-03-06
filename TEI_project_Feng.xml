@@ -44,10 +44,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20240304092855067",
+	"id": "https://raw.githubusercontent.com/Airuike72/my-work/main/TEI_project_Feng.xml?person_annotation_20240304092855067",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-04T14:28:55.067Z",
-	"dcterms:modified": "2024-03-04T14:28:55.067Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/Airuike72",
 		"@type": [
@@ -58,9 +57,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20240304092855067#Target",
+		"@id": "https://raw.githubusercontent.com/Airuike72/my-work/main/TEI_project_Feng.xml?person_annotation_20240304092855067#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/Airuike72/my-work/main/TEI_project_Feng.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -71,7 +71,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20240304092855067#Selector",
+			"@id": "https://raw.githubusercontent.com/Airuike72/my-work/main/TEI_project_Feng.xml?person_annotation_20240304092855067#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/byline/persName"
 		}
@@ -123,10 +123,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20240304093123089",
+	"id": "https://raw.githubusercontent.com/Airuike72/my-work/main/TEI_project_Feng.xml?person_annotation_20240304093123089",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-04T14:31:23.089Z",
-	"dcterms:modified": "2024-03-04T14:31:23.089Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/Airuike72",
 		"@type": [
@@ -137,9 +136,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20240304093123089#Target",
+		"@id": "https://raw.githubusercontent.com/Airuike72/my-work/main/TEI_project_Feng.xml?person_annotation_20240304093123089#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/Airuike72/my-work/main/TEI_project_Feng.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -150,7 +150,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20240304093123089#Selector",
+			"@id": "https://raw.githubusercontent.com/Airuike72/my-work/main/TEI_project_Feng.xml?person_annotation_20240304093123089#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/p/persName[2]"
 		}
@@ -176,44 +176,9 @@
          <head>The Village Schoolteacher</head>
             <byline>By <persName key="Liu Cixin" ref="http://www.wikidata.org/entity/Q607588" cert="high" role="aut" type="real">Liu Cixin</persName></byline>
             <p>Translated by <persName role="trl">Christopher Elford</persName> and <persName key="Jiang, Chenxin" ref="http://viaf.org/viaf/307441874/" cert="high" role="trl" type="real">Jiang Chenxin</persName>
-</p><p/>
-            <p>Spread out under the moonlight, the silent village looked as though it had been
-            abandoned a century before. The houses, with the characteristic flat-topped roofs found on the
-            Loess Plateau, were of a shape no different from the loess mounds that surrounded them. In the
-            moonlight they were of the same tinge, as though the village had merged with the hillside. Only
-            the old pagoda tree, standing out in front, could be seen clearly. The crows’ nests in its withered
-            branches stood out a blacker black, like large ink drops on the deep silver tableau. The village
-            did have its moments of beauty and warmth. At harvest time, the young men and women who
-            had gone off to work in the city would return, and the village would fill with the sounds of their
-            joyous laughter; every rooftop was stacked high with golden corn and children could be seen
-            rolling about in the freshly cut hay on the threshing ground. Or there was the New Year when the
-            gas lamps over the threshing ground burned bright and there would be several days of wild
-            festivities, the rowing of the ‘land boat’, and the dancing of the ‘lion dance’. Of these lions not
-            much remained save some clicking wooden skulls with the paint worn off, and a few bed-sheets,
-            since the village could not afford to replace the coverings with proper lion skins ... yet everyone
-            had great fun. But after the 15th, the young people would all have returned to their jobs and the
-            village had nothing to enliven it. Only at dusk, when the smoke rose from the chimneys in thin
-            wisps, would one or two old men appear on the outskirts of the village, their faces, wrinkled like
-            mountain hickory nuts, raised and peering eagerly at the road that led out of the mountains, till
-            the last rays of the sun hanging from the branches of the pagoda tree faded away. By nightfall the
-            lights in the village had long been put out. Electricity was expensive. It was now up to 1.8 yuan
-            per kilowatt hour.</p>
-            <p>The faint sound of a dog barking drifted through the village, as though it was talking in its sleep.
-            He looked around at the yellow earth in the moonlight and felt suddenly that it resembled the
-            unbroken surface of a lake. If only it really was water. The drought was in its fifth straight year.
-            The villagers had to carry water to irrigate the land to have any harvest at all. He thought of the
-            fields as he looked off into the distance at the tiny mountain plots. In the moonlight they looked
-            like footprints left by some prehistoric giant passing over the mountains. On these rocky slopes,
-            covered with brambles and artemisia, there was only space for small plots here and there. Farm
-            machinery was out of the question; even a draft animal could barely turn a full circle on the            
-            fields, so the fields had to be tilled by hand. Last year a farm machinery company came around
-            selling a mini- push-tractor that would function even on these palm-sized plots of land. A good
-            enough machine, the villagers said, but you must be joking: did the salesmen know how little
-            these tiny fields produced? Even tilling them as carefully as if one were embroidering flowers,
-            you’d be lucky to harvest enough to feed yourself year round; in a time of drought you might not
-            even recover the price of the seeds you planted. With fields like these, who could afford a three
-            or four thousand yuan push-tractor, plus the two-yuan-a-litre diesel fuel you’d need to run it?
-            How could these outsiders understand just how hard life was in the mountains?</p>
+</p><p>‘An exquisite, nearly perfect planetary system.’ said the Commander.</p>
+            <p>The Chief Administrator agreed, ‘Yes. It’s small terrestrial planets and gaseous giants are deployed in a kind of rhyme scheme. The asteroid belt is perfectly positioned, like a beautiful jewelled necklace. The tiny icy outermost methane planet is like the last lingering note of a musical piece, hinting at the birth of a new era.’</p>
+            <p>‘This is Blue 84210, preparing to scan for life on the innermost planet. Survey beam projected. This planet has no atmosphere and rotates very slowly on its axis. Surface temperatures vary greatly. Random location survey number 1. The result is white. Random location survey number 2. The result is white ... Random location survey number 10. The result is white. Blue 84210 reporting. This planet contains no life.’</p>
             <p>Several shadows passed by the windows. They squatted together at the edge of a field not too far
             off, for who knew what reason. He knew that they were his students. He could sense their
             presence when they were near him even without using his eyes. He had developed these intuitive
