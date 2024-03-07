@@ -491,6 +491,85 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/Airuike72/my-work/main/TEI_project_Feng.xml?note_annotation_20240306220116204",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-07T03:01:16.204Z",
+	"dcterms:modified": "2024-03-07T03:01:16.204Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/Airuike72",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "J Feng"
+	},
+	"oa:motivatedBy": "oa:describing",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/Airuike72/my-work/main/TEI_project_Feng.xml?note_annotation_20240306220116204#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/Airuike72/my-work/main/TEI_project_Feng.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/Airuike72/my-work/main/TEI_project_Feng.xml?note_annotation_20240306220116204#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p[3]/persName/note"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "oa:TextualBody",
+		"dc:format": "text/plain",
+		"rdf:value": "In this tale, the alien fleet commander plays a pivotal role. He is the leader of a highly advanced alien species, in command of a powerful fleet. His civilization is threatened by a cosmic disaster, and they believe that salvation lies in finding the \"pure flame of civilization,\" a quest that intertwines with the story of a humble teacher in a remote village on Earth."
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
   <text>
       <body>
@@ -498,8 +577,8 @@
             <byline>By <persName key="Liu Cixin" ref="http://www.wikidata.org/entity/Q607588" cert="high" role="aut" type="real">Liu Cixin</persName></byline>
             <p>Translated by <persName key="Christopher Elford hamilton" ref="https://www.hamilton.edu/academics/our-faculty/directory/faculty-detail/Christopher-Elford" cert="high" role="trl" type="real">Christopher Elford</persName> and <persName key="Jiang, Chenxin" ref="http://viaf.org/viaf/307441874/" cert="high" role="trl" type="real">Jiang Chenxin</persName>
 
-</p><p/>		<p>‘An exquisite, nearly perfect planetary system.’ said the <persName xml:id="AlienFleetCommander" key="commander" ref="http://www.wikidata.org/entity/Q6620231" cert="high" type="fictional">Commander</persName>.</p>
-            <p>The <persName xml:id="AlienAdministrator">Chief Administrator<note type="annotation"> In this tale, the alien fleet commander plays a pivotal role. He is the leader of a highly advanced alien species, in command of a powerful fleet. His civilization is threatened by a cosmic disaster, and they believe that salvation lies in finding the "pure flame of civilization," a quest that intertwines with the story of a humble teacher in a remote village on Earth.</note></persName> agreed, ‘Yes. It’s small terrestrial planets and gaseous giants are deployed in a kind of rhyme scheme. The asteroid belt is perfectly positioned, like a beautiful jewelled necklace. The tiny icy outermost methane planet is like the last lingering note of a musical piece, hinting at the birth of a new era.’</p>
+</p><p/>		<p>‘An exquisite, nearly perfect planetary system.’ said the <persName xml:id="AlienFleetCommander" key="commander" ref="http://www.wikidata.org/entity/Q6620231" cert="high" type="fictional">Commander<note type="annotation">In this tale, the alien fleet commander plays a pivotal role. He is the leader of a highly advanced alien species, in command of a powerful fleet. His civilization is threatened by a cosmic disaster, and they believe that salvation lies in finding the "pure flame of civilization," a quest that intertwines with the story of a humble teacher in a remote village on Earth.</note></persName>.</p>
+            <p>The <persName xml:id="AlienAdministrator">Chief Administrator<note type="annotation"> The highest governing official would have been driven by the same motivations as the fleet commander: to protect their civilization from the existential threat of the "paper disease" and to seek out the "pure flame of civilization" that could potentially save them. The commander's change of heart, prompted by the rural teacher's selfless dedication to knowledge and education, might also need to be reported back to and understood by the highest governing official, who would finally decide Earth's fate.</note></persName> agreed, ‘Yes. It’s small terrestrial planets and gaseous giants are deployed in a kind of rhyme scheme. The asteroid belt is perfectly positioned, like a beautiful jewelled necklace. The tiny icy outermost methane planet is like the last lingering note of a musical piece, hinting at the birth of a new era.’</p>
             <p>‘This is <rs xml:id="AlineSpaceship" cert="high">Blue 84210</rs>, preparing to scan for life on the innermost planet. Survey beam projected. This planet has no atmosphere and rotates very slowly on its axis. Surface temperatures vary greatly. Random location survey number 1. The result is white. Random location survey number 2. The result is white ... Random location survey number 10. The result is white. <rs ref="#AlineSpaceship"> Blue 84210</rs> reporting. This planet contains no life.’</p>
             <p>The <persName ref="#AlienFleetCommander"> Commander</persName> said with disapprobation, ‘This planet’s surface could be used as a smelter. There’s no need to waste any more time!’</p>
             <p>‘Initiate life scan on the second planet. Projecting beam sent. This planet has a thick atmosphere. Surface temperatures are high and relatively homogenous, mostly covered by acidic clouds. Random location survey number 1. The result is white. Random location survey number 2. The result is white ... Random location survey number 10. The result is white. <rs ref="#AlineSpaceship"> Blue 84210</rs> reporting. This planet contains no life.’</p>
