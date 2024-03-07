@@ -126,7 +126,6 @@
 	"id": "https://raw.githubusercontent.com/Airuike72/my-work/main/TEI_project_Feng.xml?person_annotation_20240304093123089",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-04T14:31:23.089Z",
-	"dcterms:modified": "2024-03-04T14:31:23.089Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/Airuike72",
 		"@type": [
@@ -153,7 +152,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Airuike72/my-work/main/TEI_project_Feng.xml?person_annotation_20240304093123089#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p/persName"
+			"rdf:value": "TEI/text/body/p/persName[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -171,12 +170,92 @@
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/Airuike72/my-work/main/TEI_project_Feng.xml?person_annotation_20240306193644987",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-07T00:36:44.987Z",
+	"dcterms:modified": "2024-03-07T00:36:44.987Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/Airuike72",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "J Feng"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/Airuike72/my-work/main/TEI_project_Feng.xml?person_annotation_20240306193644987#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/Airuike72/my-work/main/TEI_project_Feng.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/Airuike72/my-work/main/TEI_project_Feng.xml?person_annotation_20240306193644987#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://www.hamilton.edu/academics/our-faculty/directory/faculty-detail/Christopher-Elford",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	},
+	"cwrc:hasCertainty": "cwrc:high"
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
   <text>
       <body>
          <head>The Village Schoolteacher</head>
             <byline>By <persName key="Liu Cixin" ref="http://www.wikidata.org/entity/Q607588" cert="high" role="aut" type="real">Liu Cixin</persName></byline>
-            <p>Translated by Christopher Elford and <persName key="Jiang, Chenxin" ref="http://viaf.org/viaf/307441874/" cert="high" role="trl" type="real">Jiang Chenxin</persName>
+            <p>Translated by <persName key="Christopher Elford hamilton" ref="https://www.hamilton.edu/academics/our-faculty/directory/faculty-detail/Christopher-Elford" cert="high" role="trl" type="real">Christopher Elford</persName> and <persName key="Jiang, Chenxin" ref="http://viaf.org/viaf/307441874/" cert="high" role="trl" type="real">Jiang Chenxin</persName>
 </p><p>‘An exquisite, nearly perfect planetary system.’ said the Commander.</p>
             <p>The Chief Administrator agreed, ‘Yes. It’s small terrestrial planets and gaseous giants are deployed in a kind of rhyme scheme. The asteroid belt is perfectly positioned, like a beautiful jewelled necklace. The tiny icy outermost methane planet is like the last lingering note of a musical piece, hinting at the birth of a new era.’</p>
             <p>‘This is Blue 84210, preparing to scan for life on the innermost planet. Survey beam projected. This planet has no atmosphere and rotates very slowly on its axis. Surface temperatures vary greatly. Random location survey number 1. The result is white. Random location survey number 2. The result is white ... Random location survey number 10. The result is white. Blue 84210 reporting. This planet contains no life.’</p>
