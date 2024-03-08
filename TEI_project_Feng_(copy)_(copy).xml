@@ -702,6 +702,84 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "undefined?note_annotation_20240307233701491",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-08T04:37:01.491Z",
+	"dcterms:modified": "2024-03-08T04:37:01.491Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/Airuike72",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "J Feng"
+	},
+	"oa:motivatedBy": "oa:describing",
+	"oa:hasTarget": {
+		"@id": "undefined?note_annotation_20240307233701491#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "undefined?note_annotation_20240307233701491#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p[9]/persName/note"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "oa:TextualBody",
+		"dc:format": "text/plain",
+		"rdf:value": "CommanderIn this tale, the alien fleet commander plays a pivotal role. He is the leader of a highly advanced alien species, in command of a powerful fleet. His civilization is threatened by a cosmic disaster, and they believe that salvation lies in finding the \"pure flame of civilization,\" a quest that intertwines with the story of a humble teacher in a remote village on Earth."
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
       
   <xenoData/>
@@ -718,7 +796,7 @@
             <p>The <persName ref="#AlienFleetCommander"> Commander</persName> said with disapprobation, ‘<placeName ref="#merc">This planet</placeName>’s surface could be used as a smelter. There’s no need to waste any more time!’</p>
             <p>‘Initiate life scan on the second planet. Projecting beam sent. This planet has a thick atmosphere. Surface temperatures are high and relatively homogenous, mostly covered by acidic clouds. Random location survey number 1. The result is white. Random location survey number 2. The result is white ... Random location survey number 10. The result is white. <rs ref="#AlineSpaceship"> Blue 84210</rs> reporting. This planet contains no life.’</p>
             <p>Using four-dimensional communication, the<persName ref="#AlienAdministrator"> Chief Administrator</persName> said to the officers on board <rs ref="#AlineSpaceship"> Blue 84210</rs> more than 1,000 light years away, ‘My intuition tells me that that there is a great probability of life on <placeName key="Earth" ref="http://www.wikidata.org/entity/Q2" cert="high">the third planet<precision match="@ref" precision="high"/></placeName>. Initiate thirty random locations surveys.’</p>
-            <p>‘Sir, we are pressed for time,’ the <persName ref="#AlienFleetCommander"> Commander</persName> said.</p>
+            <p>‘Sir, we are pressed for time,’ the <persName ref="#AlienFleetCommander"> Commander<note type="annotation">CommanderIn this tale, the alien fleet commander plays a pivotal role. He is the leader of a highly advanced alien species, in command of a powerful fleet. His civilization is threatened by a cosmic disaster, and they believe that salvation lies in finding the "pure flame of civilization," a quest that intertwines with the story of a humble teacher in a remote village on Earth.</note></persName> said.</p>
             <p>‘Do as I say,’ the <persName ref="#AlienAdministrator"> Chief Administrator</persName> said firmly.</p>
 	<eventName>children failed the first civilization test</eventName>
             <p>‘Sir, yes sir. Initiating survey of the third planet. Projecting beam sent. This planet has an average atmospheric density. Most of its surface is covered by ocean.’</p><p>THE LIFE SURVEY BEAM fell on <placeName key="South Asia" ref="http://www.wikidata.org/entity/Q771405"><note type="annotation">The story of 18 children and time-traveler happends here, it is a coincidence but also the fate of the main characters</note>a slightly southerly portion of the Asian continent</placeName>. The tip of the beam formed a circle on the ground with a diameter of roughly five thousand metres. If it was daylight, one could detect the beam with the naked eye as all non-living things within the beam’s range became transparent when it hit them. It now shone on a small mountainous region in north-western China, and the loess slopes would have looked to an observer like crystal. The sun would have refracted in and out of these mountains, creating a truly magnificent scene. The observer would have seen the ground below him transformed into a bottomless abyss. All things determined to be living remained unchanged. People, trees, and grass would have stood out with utter clarity in this crystalline world. But this effect would only have lasted for half a second. During this time the scanning beam would have already completed its initial scan and everything would have returned to normal. The observer would have thought it a momentary hallucination. But right now it was night and naturally it was difficult to notice anything.</p><p>The village school happened to be right at the centre of the circle made by the survey beam.</p><p>‘RANDOM LOCATION SURVEY number 1. The result is ... green! The result is green! <rs ref="#AlineSpaceship"> Blue 84210</rs> reporting. Target 500921473. The third planet contains life!’</p><p>The survey beam began to classify the many kinds of life that fell within its range, ranking the species according to the complexity of their structure and their estimated stages of intelligence, and putting them in order in its digital database. The group of creatures under a square shelter were ranked at the top. The beam speedily retracted, focusing on that shelter.</p><p>The <persName ref="#AlienAdministrator"> Chief Administrator</persName>’s intelligence field received <rs ref="#AlineSpaceship"> Blue 84210</rs>’s image and enlarged it to cover the entire space background. That image of the village schoolhouse in an instant covered the entire universe. The image processing system had already removed the shelter, but the images of the life forms were still unclear. These life forms’ appearance was not eye-catching in the slightest and even seemed to blend in with the silicas and yellow dirt that surrounded them. The main computer could not but eliminate from the image everything lifeless, including <persName cert="high" type="real">the larger dead form<note type="annotation">The dead body of Li Baoer, the former mentioned that he was running out of time</note></persName> that was surrounded by the life forms, making them look as though they were suspended alone in the vast emptiness. Even this way they seemed rather ordinary, devoid of colour, looking like yellow plants. One look and you knew these creatures weren’t capable of performing miracles.</p><p><rs ref="#AlineSpaceship"> Blue 84210</rs> projected a thin four-dimensional beam. The moon-sized ship had anchored just outside Jupiter’s orbit, temporarily providing the solar system with an additional planet. The four-dimensional beam moved through three- dimensional space toward Earth at almost infinite speed. It plunged straight through the roof of the school and began conducting an elementary particle scan on</p><p><persName xml:id="HumanChildren" cert="high" type="fictional">the eighteen children</persName>. The torrent of information returned to space at a speed scarcely conceivable to humans. In an instant the <persName ref="#HumanChildren">children</persName>’s digital replicas had been assembled in <rs ref="#AlineSpaceship"> Blue 84210</rs>’s main computer’s database, a database more vast than the universe itself.<persName ref="#HumanChildren">The eighteen children</persName> were suspended in a boundless space of a colour impossible to describe, not really a colour at all since the void does not have a colour but is more transparent than transparent. The <persName ref="#HumanChildren">children</persName> couldn’t help but grab onto each other. They looked normal but their hands passed through each other’s bodies without the slightest obstruction. The <persName ref="#HumanChildren">children</persName> felt an indescribable terror. The main computer observed this, and thinking that these life forms needed familiar objects, it created in its own internal universe a blue that mimicked that of the planet’s sky. The <persName ref="#HumanChildren">children</persName> immediately looked up at the blue sky, with no sun and no clouds and no dust, just blue, so pure and profound. There was no ground under their feet but a sky same as the one over their heads. They seemed to be in a universe of endless blue, and they were the only substance in it. The computer felt that these digital life forms were still in panic and in a millionth of a second, understood: most of the living things in the Milky Way galaxy were not afraid of being suspended in space, but these life forms were not the same. They were land creatures. It therefore provided them with ground and a feeling of gravity. The <persName ref="#HumanChildren">children</persName> were surprised to see the ground suddenly appear beneath their feet. It was pure white and its surface was criss-crossed with an orderly black and white grid. They seemed to be standing on a gridded writing practice book that extended to infinity. Some of them bent down to touch it. It was the smoothest thing any of them had ever seen. They took long strides but did not move, as the surface was absolutely smooth, the coefficient of friction was zero. They wondered why they did not fall down. One of the <persName ref="#HumanChildren">children</persName> took off a shoe and slid it across the ground. This shoe slid forward at a uniform speed. The <persName ref="#HumanChildren">children</persName> stared as it moved off into the distance at an unchanging speed.</p><p>They had seen Newton’s first law.</p><p>A sound, gentle and lovely, resounded in the digital universe.</p><p>‘Begin the 3C Civilization Test. 3C Civilization Test question number 1: Please describe the evolutionary principle of life on your planet. Is it natural selection or gene mutation?’</p><p>The <persName ref="#HumanChildren">children</persName> remained in stupefied silence.</p><p>‘3C Civilization Test question number 2: Please briefly state the source of the stars’ energy.’</p><p>The <persName ref="#HumanChildren">children</persName> still remained in stupefied silence.</p><p>...</p><p>‘3C Civilization Test question number 10: Please explain the molecular structure of the liquid which fills your oceans.’</p><p>The stupefied silence continued.</p><p>The shoe, now only a tiny dot on the horizon, disappeared.</p><p>‘Let’s stop here.’ the <persName ref="#AlienFleetCommander"> Commander</persName> said to the <persName ref="#AlienAdministrator"> Chief Administrator</persName> 1,000 light years away. ‘We cannot delay any longer, or we won’t be able to complete the first stage of the mission on time.’</p><p>The <persName ref="#AlienAdministrator"> Chief Administrator</persName>’s intelligence field rippled slightly to signal agreement. ‘Launch the singularity bomb!’</p>
